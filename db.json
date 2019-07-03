@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "email": "test@test.pl",
+      "password": "$2a$10$Ucb9oMxcnomoZqlpDFJYJO0SIq4FvwDplL0h0XDf7Dw3IHFw3Ezme",
+      "id": 1
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Ciasto",
+      "imagePath": "https://static.smaker.pl/photos/1/3/1/13176fba8755ee4cef447e0fddfda73e_350337_5974a4942bcb5_wm.jpg",
+      "description": "Pyszne ciasto",
+      "ingredients": [
+        {
+          "name": "Ciasto",
+          "amount": 1
+        },
+        {
+          "name": "Czekolada",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Pierogi",
+      "imagePath": "https://www.mniammniam.com/obrazki/u_obrazki/n17511.jpg",
+      "description": "Pyszne pierogi",
+      "ingredients": [
+        {
+          "name": "Ciasto",
+          "amount": 3
+        },
+        {
+          "name": "Farsz",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Spaghetti",
+      "imagePath": "https://www.inspiredtaste.net/wp-content/uploads/2019/03/Spaghetti-with-Meat-Sauce-Recipe-1-1200.jpg",
+      "description": "Oto spaghetti",
+      "ingredients": [
+        {
+          "name": "Makaron",
+          "amount": 1
+        },
+        {
+          "name": "Pomidory",
+          "amount": 5
+        }
+      ]
+    }
+  ]
+}
